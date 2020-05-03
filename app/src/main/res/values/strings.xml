@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SumCoupleEqualZero</string>
+    <string name="title_activity_list">Number list with difference size</string>
+</resources>
